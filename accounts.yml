@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Default Profile EazyBank accounts related local APIs "
+  message: "Default EazyBank Profile for accounts related local APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"

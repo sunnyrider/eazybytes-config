@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Default Profile EazyBank cards related local APIs "
+  message: "Default EazyBank Profile for cards related local APIs "
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"
