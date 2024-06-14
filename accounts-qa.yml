@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Hallo accounts QA World"
+  message: "Hallo accounts from Visual Studio Code QA World"
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@eazybank.com"
