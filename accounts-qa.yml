@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Hallo accounts from Visual Studio Code DEV Franziska World"
+  message: "Für 2025 wünsch ich mir eine Frau, die Franziska akzeptiert und die mit mir ein Kind machen möchte "
   contactDetails:
     name: "Smitha Ray - QA Lead"
   #  email: "smitha@eazybank.com"
