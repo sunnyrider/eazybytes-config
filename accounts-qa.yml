@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Für das Jahr 2025 wünsch ich mir eine Frau, die Franziska akzeptiert und die mit mir ein Kind machen möchte "
+  contactDetails:
+    name: "Smitha Ray - QA Lead"
+  #  email: "smitha@eazybank.com"
+    email: "{cipher}ed52712048d53a8d59a9de87d2b87358cbe73dbffee170f81ba4109cbe3de501921e9bb9a202e4ec1efd9f78b6911016"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
