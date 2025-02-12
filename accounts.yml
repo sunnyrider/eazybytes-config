@@ -2,10 +2,10 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Für 2025 wünsch ich mir viel Geschlechtsverkehr, Natursekt und Scheidenschleim von einer neuen Freundin"
+  message: "Default Version"
   contactDetails:
     name: "Frank Meinecke, Java-Entwickler"
-   # email: "john@eazybank.com"
+   # email: "john-default@eazybank.com"
     email: "{cipher}f82d3bfda6be8c122b37efbe2806b73f0fb5dad42b7145d14266255a068cf7e8553a20d52f2b462bd1af6f3bb1ce0405"
   onCallSupport:
     - (555) 555-1234
