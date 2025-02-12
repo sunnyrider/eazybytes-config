@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Default accounts Version"
+  message: "Accounts DEFAULT Version"
   contactDetails:
     name: "Frank Meinecke, Java-Entwickler"
    # email: "john-default@eazybank.com"
