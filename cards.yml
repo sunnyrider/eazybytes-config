@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "EazyBank-default Natursekt Anteile kaufen"
+  message: "EazyBank-default Version"
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"
