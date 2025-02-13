@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "EazyBank Default Profil for loans related default APIs "
+  message: "EazyBank Default Profil for loans related APIs. "
   contactDetails:
     name: "Amaal Grega - Developer"
     email: "amaal@eazybank.com"
