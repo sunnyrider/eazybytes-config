@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Dies ist nicht nur eine DEFAULT Version"
   contactDetails:
-    name: "Frank Meinecke, Java-Backend und Microservices Entwickler"
+    name: "Frank Meinecke, Entwickler"
    # email: "john-default@eazybank.com"
     email: "{cipher}f82d3bfda6be8c122b37efbe2806b73f0fb5dad42b7145d14266255a068cf7e8553a20d52f2b462bd1af6f3bb1ce0405"
   onCallSupport:
