@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Dies ist - böööööööö - DEFAULT Version"
+  message: "Dies ist - - DEFAULT Version"
   contactDetails:
     name: "Frank Meinecke, Entwickler für Microservices"
    # email: "john-default@eazybank.com"
