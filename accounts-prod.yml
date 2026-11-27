@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5436/prod_db
     username: postgres
-    password: root
+    password: "{cipher}3ad247d4e0956b07956d2e154b9c387b4893f71002855cf3032e9868c3a4c04a"
     driver-class-name: "org.postgresql.Driver"
     properties:
       schema: public
@@ -20,7 +20,7 @@ accounts:
   message: "Willkommen in der Sperma Bank - geprüft und zeugungsstark"
   contactDetails:
     name: "Hermann Depot - Sperma von 3 Generationen"
-    email: "info@hermann-depot.com"
+    email: "{cipher}6a9f34d18ac7c485198482edf2144b79fe8d8256bf558211513b3d0b13745c9c0478a4d08b31c32ee2553784f48119e6"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
