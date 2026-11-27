@@ -14,14 +14,13 @@ spring:
     database-platform: org.hibernate.dialect.PostgreSQLDialect
 
 build:
-  version: "3.0"
+  version: "1.0"
 
 accounts:
-  message: "Production Version"
+  message: "Willkommen in der Sperma Bank - geprüft und zeugungsstark"
   contactDetails:
-    name: "Reine Aishwarya ACCOUNT-Microservice PROD- Product Owner"
-   # email: "f.mein@eazybank.com"
-    email: "{cipher}0f23df53655d3d841223a0ba16f85e2aef75e5dc3d49d70a7a0cb076bc61ae3015c93c4a6d365af630e878fdf0cb8f79"
+    name: "Hermann Depot - Sperma von 3 Generationen"
+    email: "info@hermann-depot.com"
   onCallSupport:
-    - (453) 392-4829
-    - (236) 203-0384
+    - (555) 555-1234
+    - (555) 523-1345
