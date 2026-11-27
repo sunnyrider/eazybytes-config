@@ -1,5 +1,20 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/batch_db
+    username: postgres
+    password: root
+    driver-class-name: "org.postgresql.Driver"
+    properties:
+      schema: public
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+
 build:
-  version: "Version-1.0"
+  version: "3.0"
 
 accounts:
   message: "Production Version"
