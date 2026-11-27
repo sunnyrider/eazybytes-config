@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5436/prod_db
     username: postgres
-    password: root
+    password: "{cipher}575939bf50c07db7c66c251a1f0b8f590e4ca97785826e6dfee7eb8102f753ea"
     driver-class-name: "org.postgresql.Driver"
     properties:
       schema: public
@@ -20,7 +20,7 @@ cards:
   message: "CARDS Bikestore - City-, Gravel- und Race-Bikes in jeder Preisklasse"
   contactDetails:
     name: "Frank Engels - Developer"
-    email: "frank.engels@engel-bikes.de"
+    email: "{cipher}dcebd50dab5f73bed842269f1cbdb81c432cca655b2375f72dbbc3f68f733d01bd5fc28de1848d2cc378538112041633"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
