@@ -17,7 +17,7 @@ build:
   version: 2.43
 
 cards:
-  message: "CARDS Bikestore - City-, Gravel- und Race-Bikes in jeder Preisklasse"
+  message: "CARDS PROD Bikestore - City-, Gravel- und Race-Bikes in jeder Preisklasse"
   contactDetails:
     name: "Frank Engels - Developer"
     email: "{cipher}dcebd50dab5f73bed842269f1cbdb81c432cca655b2375f72dbbc3f68f733d01bd5fc28de1848d2cc378538112041633"
