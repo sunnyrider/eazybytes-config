@@ -4,7 +4,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5433/qa_db
     username: postgres
-    password: root
+    password: "{cipher}45d4d14b96398625d9f56c792a4c131643a16acd30950e9423a233bbc356f5ab"
     driver-class-name: "org.postgresql.Driver"
     properties:
       schema: public
@@ -22,7 +22,8 @@ accounts:
   message: "Natursekt- und Kaviar von schönen Frauen - direkt aus ihrer Quelle"
   contactDetails:
     name: "Maria Bar Gevelsberg"
-    email: "mariabar@bar-gev.de"
+    # mariabar@bar-gev.de
+    email: "{cipher}c98104d63591083e3ee444dba1f5adef51de40e0fa55820eebb50e7e23adf7103091991366af84d2db22c3381197435a"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
