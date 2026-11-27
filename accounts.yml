@@ -1,8 +1,8 @@
-spring:
+nspring:
   datasource:
     url: jdbc:postgresql://localhost:5432/batch_db
     username: postgres
-    password: root
+    password: "{cipher}575939bf50c07db7c66c251a1f0b8f590e4ca97785826e6dfee7eb8102f753ea"
     driver-class-name: "org.postgresql.Driver"
     properties:
       schema: public
@@ -17,10 +17,11 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Willkommen in der Natursekt- und Kaviar Bank - immer tagfrisch"
+  message: "Individual Software, Drohnen- und Robotersteuerungen"
   contactDetails:
-    name: "John Doe - Developer"
-    email: "john@eazybank.com"
+    name: "Franziska Meinecke - Developer"
+    # frz.mein@eazybank.com
+    email: "{cipher}035c33679654305f1299233ecb56a8b8ffb3644237c7014673add792720e3a0bdd03fcc3912513aeab62b818ea06c815"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
