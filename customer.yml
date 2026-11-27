@@ -20,7 +20,7 @@ cards:
   message: "Customer Bikestore - City-, Gravel- und Race-Bikes zum Bestpreis"
   contactDetails:
     name: "Frank Engels - Developer"
-    email: "frank.engels@engel-bikes.de"
+    email: "{cipher}48a17666987bcbf16003f0572ce9214319115caa0a9a945efe83f88a906f7ce3be334bd24010dc7dab79c63f8b0f8aad"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
