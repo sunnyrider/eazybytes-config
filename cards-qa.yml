@@ -17,7 +17,7 @@ build:
   version: 3.63
 
 cards:
-  message: "CARDS Supply & Trading GmBh, Essen - Wir geben ihnen Energie"
+  message: "CARDS QA Supply & Trading GmBh, Essen - Wir geben ihnen Energie"
   contactDetails:
     name: "Frank Trade - Developer"
     email: "{cipher}816e7b65213893d9c1717d80c024aeb83c20cebbb015d4e0af3b43bb80426a92"
