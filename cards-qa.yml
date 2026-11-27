@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5433/qa_db
     username: postgres
-    password: root
+    password: "{cipher}575939bf50c07db7c66c251a1f0b8f590e4ca97785826e6dfee7eb8102f753ea"
     driver-class-name: "org.postgresql.Driver"
     properties:
       schema: public
