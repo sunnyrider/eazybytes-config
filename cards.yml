@@ -20,7 +20,7 @@ cards:
   message: "Willkommen in der CARDS Bank - immer tagfrisch"
   contactDetails:
     name: "Jim Southerlands - Developer"
-    email: "jsoutherland@cards.com"
+    email: "{cipher}56e27cf78318c20e2403fc32469123a642b10cb408e7ca3e40108ee9ad7c94a9bc6ba4f752440e386a322835abfade1e"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
